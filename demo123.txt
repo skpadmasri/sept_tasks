@@ -1,0 +1,2 @@
+This is write operation using w+
+This is append operation using a+

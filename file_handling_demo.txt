@@ -1,0 +1,5 @@
+Hello Pythonythonlife
+file handling session
+hi everyone
+ this is append operation by using mode a
+This is append operation by using mode a
